@@ -21,7 +21,7 @@ npm run start
 serve -s build
 ```
 ### Use
-###### Open the app
+###### Open the game
 If you're runnimg in dev mode your web browser should automatically open to a page with the running app.\
 Production mode typically won't automatically open your browsr.\
 If the app does not automatically open for you in either case, navigate to `http://localhost:3000` in your browser to open the app.
